@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "DenseSA-Net: code for parameter-efficient spatial-attention blood cell classification"
+version: 1.0.0
+date-released: 2026-10-05
+license: MIT
+authors:
+  - family-names: Nasayreh
+    given-names: Ahmad
+preferred-citation:
+  type: article
+  title: "DenseSA-Net: A Parameter-Efficient Spatial-Attention Architecture for Explainable Multi-Class Blood Cell Classification"
+  journal: "Scientific Reports"
+  year: 2026
+  authors:
+    - family-names: AL-Nasra
+      given-names: "Nazha Ala'a"
+    - family-names: Wedyan
+      given-names: Mohammad
+    - family-names: Alturki
+      given-names: Ryan
+    - family-names: Alkhateeb
+      given-names: "Hamza K."
+    - family-names: Alshawi
+      given-names: Bandar
+    - family-names: Bashkami
+      given-names: Ayah
+    - family-names: AL-Nasra
+      given-names: "Dana Ala'a"
+    - family-names: Gharaibeh
+      given-names: Hasan
+    - family-names: Nasayreh
+      given-names: Ahmad
